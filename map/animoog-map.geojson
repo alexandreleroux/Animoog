@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Moog",
+        "Name": "Moog Headquarters",
+        "URL": "http://www.moogmusic.com/",
+        "Description": "Moog Music Inc headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55401611328125,
+          35.5942273151805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Musician",
+        "Name": "Alexandre Leroux",
+        "URL": "animoog.org/satri",
+        "Description": "Animoog enthusiast and founder of animoog.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58814239501953,
+          45.5077905484003
+        ]
+      }
+    }
+  ]
+}
