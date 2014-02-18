@@ -1,0 +1,3 @@
+Animmoog map - Instructions for contributing
+
+Instructions to come soon...
