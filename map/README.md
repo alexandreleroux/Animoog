@@ -1,6 +1,6 @@
 The interactive map is here: https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson
 
-Animmoog Users Map - Instructions for Contributing
+Animoog Users Map - Instructions for Contributing
 ============================================
 
 This map is for http://animoog.org/map , everyone is welcomed to contribute to it.
