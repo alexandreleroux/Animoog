@@ -18,10 +18,10 @@ Adding yourself to the map
 --------------------------
 
 (these need to be more detailed step-by-step instructions... coming...)
-# Login or register to GitHub
-# Go to https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson
-# Click edit map (??)
-# Pull request (??)
+* Login or register to GitHub
+* Go to https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson
+* Click edit map (??)
+* Pull request (??)
 
 
 Warning
