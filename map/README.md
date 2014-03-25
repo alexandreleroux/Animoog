@@ -1,4 +1,6 @@
-Animmoog map - Instructions for contributing
+The interactive map is here: https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson
+
+Animmoog Users Map - Instructions for Contributing
 ============================================
 
 This map is for http://animoog.org/map , everyone is welcomed to contribute to it.
@@ -7,7 +9,7 @@ This map is for http://animoog.org/map , everyone is welcomed to contribute to i
 Adding yourself to the map
 --------------------------
 
-(these need to be more detailed step-by-step)
+(these need to be more detailed step-by-step instructions... coming...)
 * If you don't have a GitHub account:
 ** Goto geojson.io website, add a pushpin and send the resulting geojson code to me or just send me your location by email
 * If you have a GitHub sccount: 
