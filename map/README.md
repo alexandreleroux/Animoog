@@ -45,4 +45,4 @@ PRIVACY warning:
 To do
 -----
 
-* Use different pushpins per type (ie a different pushpin for stores than for people, distinguish the types of Animoog users and fans by color, etc.)
+* Use different pushpins per type (ie a different pushpin for stores than for people, distinguish the types of Animoog users and fans by color, etc.) -- that's easy to do... GitHub supports marker -color and the Maki icons
