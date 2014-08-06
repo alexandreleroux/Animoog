@@ -12,7 +12,7 @@ What you'll find here
 ---------------------
 
 * A copy of the Expansion packs table in html
-* A copy of the Expansion packs table in csv (actually, semi-columns separated)
+* A copy of the Expansion packs table in csv (actually, semicolon separated)
 
 Just like everything else on Animoog.org, this content is Creative Commons licensed
 
