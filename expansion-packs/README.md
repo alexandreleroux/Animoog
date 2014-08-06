@@ -11,8 +11,8 @@ From the website: "Lots of expansion packs can be purchased and installed direct
 What you'll find here
 ---------------------
 
-* A copy of the Expansion packs table in html
-* A copy of the Expansion packs table in csv (actually, semicolon separated)
+* A copy of the Expansion Packs table in html
+* A copy of the Expansion Packs table in csv (actually, semicolon separated)
 
 Just like everything else on Animoog.org, this content is Creative Commons licensed
 
