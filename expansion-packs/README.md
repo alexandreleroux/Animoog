@@ -21,4 +21,4 @@ To do
 -----
 
 * Find a way for the original content of the table to be fully crowdsourced (such as by using Mediawiki?). I'm currently using the TablePress WordPress plugin and seriously considered the ABASE WordPress plugin
-* Add decorations to the table in html format (see this related discussion: http://wordpress.org/support/topic/display-table-in-a-new-full-screen-window)
+* Add decorations to the table in html format (see this <a href="http://wordpress.org/support/topic/display-table-in-a-new-full-screen-window">related discussion</a>)
