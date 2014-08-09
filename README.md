@@ -1,5 +1,5 @@
-Animoog
-=======
+Animoog Love
+============
 
 Data and code pertaining to the shared crowdsourced content of the <a href="http://animoog.org">Animoog.org website</a>. The actual content is available and described on the website itself. 
 
