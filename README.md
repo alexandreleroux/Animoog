@@ -5,4 +5,9 @@ Data and code pertaining to the shared crowdsourced content of the <a href="http
 
 Everything you'll find both on the website and in this Git repos is openly licensed.
 
-To start with, there's the Animoog Users Map geojson file. I'm open and willing to add much more, just drop me a note.
+There's currently two components you'll find in this repos:
+* The raw content of Expansion Packs table, which lists Animoog Expansion Packs, especially those not available from within the app and difficult to find
+* The Animoog Users Map geojson file, which is currently missing simple instructions to contribute to
+ See the READMEs in the sub-folders for details about each of those components.
+
+I'm open and willing to add much more, just drop me a note
