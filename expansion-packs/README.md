@@ -5,7 +5,7 @@ The full documentation is found at http://animoog.org/database/expansion-packs/
 
 Why
 ---
-From the website: "Lots of expansion packs can be purchased and installed directly from within the Animoog under the ‘STORE’ tab, however, several high-quality presets and timbres are not available from within the app itself — that’s the value of the following table, to help us find those valuable gems no matter where they hide!"
+From the website: _"Lots of expansion packs can be purchased and installed directly from within the Animoog under the ‘STORE’ tab, however, several high-quality presets and timbres are not available from within the app itself — that’s the value of the following table, to help us find those valuable gems no matter where they hide!"_
 
 
 What you'll find here
@@ -13,6 +13,8 @@ What you'll find here
 
 * A copy of the Expansion Packs table in html
 * A copy of the Expansion Packs table in csv (actually, semicolon separated)
+
+Version history of this content is found on the Expansion Packs page on Animoog.org
 
 Just like everything else on Animoog.org, this content is Creative Commons licensed
 
