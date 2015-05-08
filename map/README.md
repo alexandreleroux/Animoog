@@ -1,15 +1,15 @@
 The interactive map is here: https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson
 
-Animoog Users Map - Instructions for Contributing
+Animoog Players Map - Instructions for Contributing
 ============================================
 
-This map is for the <a href="http://animoog.org/map">Animoog Users Map - animoog.org/map</a>, everyone is welcomed to contribute to it.
+This map is for the <a href="http://animoog.org/map">Animoog Players Map - animoog.org/map</a>, everyone is welcomed to contribute to it.
 
 
 Use cases
 ---------
 
-* Find Animoog users and fans near you and meet to share tips and tricks, and maybe even jam together?
+* Find Animoog players and fans near you and meet to share tips and tricks, and maybe even jam together?
 * Find Moog-related stores around you
 * Maps are fun!
 
@@ -31,7 +31,7 @@ Adding yourself to the file that contains the map data:
 6. Indicate what you added or changed in the 'Propose file change' box and click the 'Propose file change' button
 7. On the 'Comparing changes' page that loaded, click on 'Create pull request'
 
-Bravo, you're done! Once I'll accept your changes, the map will be updated and all other users will see the improvements you've done.
+Bravo, you're done! Once I'll accept your changes, the map will be updated and all other players will see the improvements you've done.
 
 
 Warning
@@ -44,4 +44,4 @@ PRIVACY warning:
 To do
 -----
 
-* Use different pushpins per type (ie a different pushpin for stores than for people, distinguish the types of Animoog users and fans by color, etc.) -- that's easy to do... GitHub supports marker -color and the Maki icons
+* Use different pushpins per type (ie a different pushpin for stores than for people, distinguish the types of Animoog players and fans by color, etc.) -- that's easy to do... GitHub supports marker -color and the Maki icons
