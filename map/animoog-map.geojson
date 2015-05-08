@@ -32,6 +32,22 @@
           45.5077905484003
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Musician",
+        "Name": "Hans Noort",
+        "URL": "Compatibles2 Music",
+        "Description": "Animoog / Synth Musician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.335828423500061,
+          51.99887937509087
+        ]
+      }
     }
   ]
 }
