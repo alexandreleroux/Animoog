@@ -1,9 +1,9 @@
-The interactive map is here: https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson
+The interactive map is here: <a href="https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson" target="_blank">github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson</a>
 
 Animoog Players Map - Instructions for Contributing
 ============================================
 
-This map is for the <a href="http://animoog.org/map">Animoog Players Map - animoog.org/map</a>, everyone is welcomed to contribute to it.
+This map is for the <a href="http://animoog.org/map" target="_blank">Animoog Players Map - animoog.org/map</a>, everyone is welcomed to contribute to it.
 
 
 Use cases
@@ -17,17 +17,17 @@ Use cases
 Adding yourself to the map
 --------------------------
 
-Map data, such as the location of Animoog players and Moog dealers, can be stored in a GeoJSON file. This file format is [automatically displayed over a map by GitHub](https://help.github.com/articles/mapping-geojson-files-on-github).
+Map data, such as the location of Animoog players and Moog dealers, can be stored in a GeoJSON file. This file format is <a href="https://help.github.com/articles/mapping-geojson-files-on-github" target="_blank">automatically displayed over a map by GitHub</a>.
 
 Adding yourself to the file that contains the map data:
 
-1. Register and login to [GitHub](http://github.com) - this step is necessary to avoid spam on the map
-2. In a second browser tab, open the [geojson.io](http://geojson.io) website
-3. Copy the [raw animoog-map.geojson](https://raw.githubusercontent.com/alexandreleroux/Animoog/master/map/animoog-map.geojson) content to the geojson.io website in its '</> JSON' tab<br>![image 1](images/raw-data-copy_to_geojsonio.jpg)
+1. Register and login to <a href="http://github.com" target="_blank">GitHub</a> - this step is necessary to avoid spam on the map
+2. In a second browser tab, open the <a href="http://geojson.io" target="_blank">geojson.io</a> website
+3. Copy the <a href="https://raw.githubusercontent.com/alexandreleroux/Animoog/master/map/animoog-map.geojson" target="_blank">raw animoog-map.geojson</a> content to the geojson.io website in its '</> JSON' tab<br>![image 1](images/raw-data-copy_to_geojsonio.jpg)
 4. Click on the 'Table' tab to edit the map content using the 'Table' view:
   1. Add new members by searching for its location (the magnifying glass icon) and then clicking the pushpin to place the marker on the map
   2. Add corresponding text and links in the Table view<br>![image 2](images/add-content-to-map.jpg)
-5. Go to the [animoog-map.geojson file](https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson) page and click 'Edit this file' (the little pen icon), copy your improved geojson from the '</> JSON' tab on geojson.io and copy this content to members-map.geojson on GitHub<br>![image 3](images/edit-original-content.jpg)
+5. Go to the <a href="https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson" target="_blank">animoog-map.geojson file</a> page and click 'Edit this file' (the little pen icon), copy your improved geojson from the '</> JSON' tab on geojson.io and copy this content to members-map.geojson on GitHub<br>![image 3](images/edit-original-content.jpg)
 6. Indicate what you added or changed in the 'Propose file change' box and click the 'Propose file change' button<br>![image 4](images/propose-file-change.jpg)
 7. On the 'Comparing changes' page that loaded, click on 'Create pull request'<br>![image 5](images/create-pull-request.jpg)
 
