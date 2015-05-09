@@ -48,6 +48,21 @@
           51.99887937509087
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Musician",
+        "Name": "Sergey Zakharov",
+        "Description": "Bassist/Animoog/Electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99803495407104,
+          34.04115615806409
+        ]
+      }
     }
   ]
 }
