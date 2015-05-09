@@ -63,6 +63,25 @@
           34.04115615806409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#168411",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Type": "Musician",
+        "Name": "Victor Burenko",
+        "URL": "vk.com/iosmusician",
+        "Description": "Drummer/iOSMusician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71660614013671,
+          43.58635949637695
+        ]
+      }
     }
   ]
 }
