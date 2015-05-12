@@ -82,6 +82,23 @@
           43.58635949637695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Moog",
+        "Name": "Geert Bevin",
+        "URL": "http://gbevin.com",
+        "Description": "Senior Software Engineer at Moog, Electronic Musician",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9607133865356445,
+          50.568928517357314
+        ]
+      }
     }
   ]
 }
