@@ -8,7 +8,7 @@
         "Name": "Moog Headquarters",
         "URL": "http://www.moogmusic.com/",
         "Description": "Moog Music Inc headquarters"
-        "marker-symbol": "industrial"
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
