@@ -3,7 +3,7 @@ The interactive map is here: <a href="https://github.com/alexandreleroux/Animoog
 Animoog Players Map - Instructions for Contributing
 ============================================
 
-This map is for the <a href="http://animoog.org/map" target="_blank">Animoog Players Map - animoog.org/map</a>, everyone is welcomed to contribute to it.
+This map is for the <a href="http://animoog.org/map" target="_blank">Animoog Players Map on animoog.org/map</a>, everyone is welcomed to contribute to it
 
 
 Use cases
