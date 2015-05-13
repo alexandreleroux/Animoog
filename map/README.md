@@ -45,10 +45,11 @@ Symbols and colors
 -----
 <a href="https://www.mapbox.com/maki/" target="_blank">Maki symbols</a> can be displayed directly on GitHub maps. Symbols and colors used on the map:
 
-* Animoog players use the music notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color
+* Animoog players use the music notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color (#32CD32)
+* Animoog sound designers (presets and timbres) can use the chemist icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/chemist-24.svg) in the light purple color (#AD85FF), if you find another Maki icon is more suitable, let us know
 * Moog headquarters use the industrial symbol ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/industrial-24.svg) in the orange color
-* Orange is the color for official Moog markers, such as headquarters and Moog staff
-* Moog dealers and stores will use the commercial icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/commercial-24.svg) in the light blue color?
+* Orange (#FFA500) is the color for official Moog markers, such as headquarters and Moog staff
+* Moog dealers and stores will use the commercial icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/commercial-24.svg) in the light blue color (#66CCFF)
 
 Ideas?
 -----
