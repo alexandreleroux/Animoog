@@ -7,7 +7,9 @@
         "Type": "Moog",
         "Name": "Moog Headquarters",
         "URL": "http://www.moogmusic.com/",
-        "Description": "Moog Music Inc headquarters"
+        "Description": "Moog Music Inc headquarters",
+        "marker-symbol": "industrial",
+        "marker-color": "#ffa500"
       },
       "geometry": {
         "type": "Point",
@@ -23,6 +25,8 @@
         "Type": "Musician",
         "Name": "Alexandre Leroux",
         "URL": "animoog.org/satri",
+        "marker-symbol": "music",
+        "marker-color": "#32cd32",
         "Description": "Animoog enthusiast and founder of animoog.org"
       },
       "geometry": {
@@ -39,7 +43,9 @@
         "Type": "Musician",
         "Name": "Hans Noort",
         "URL": "Compatibles2 Music",
-        "Description": "Animoog / Synth Musician"
+        "Description": "Animoog / Synth Musician",
+        "marker-symbol": "music",
+        "marker-color": "#32cd32"
       },
       "geometry": {
         "type": "Point",
@@ -54,6 +60,8 @@
       "properties": {
         "Type": "Musician",
         "Name": "Sergey Zakharov",
+        "marker-symbol": "music",
+        "marker-color": "#32cd32",
         "Description": "Bassist/Animoog/Electronics"
       },
       "geometry": {
@@ -73,6 +81,8 @@
         "Type": "Musician",
         "Name": "Victor Burenko",
         "URL": "vk.com/iosmusician",
+        "marker-symbol": "music",
+        "marker-color": "#32cd32",
         "Description": "Drummer/iOSMusician"
       },
       "geometry": {
@@ -90,7 +100,8 @@
         "Name": "Geert Bevin",
         "URL": "http://gbevin.com",
         "Description": "Senior Software Engineer at Moog, Electronic Musician",
-        "marker-color": ""
+        "marker-symbol": "music",
+        "marker-color": "#ffa500"
       },
       "geometry": {
         "type": "Point",
