@@ -41,7 +41,16 @@ PRIVACY warning:
 * Please add only yourself and Moog-related stores 
 * Don't use the precise location of your home, you are responsible for the location accuracy and your associated privacy
 
-To do
+Symbols and colors
+-----
+<a href="https://www.mapbox.com/maki/" target="_blank">Maki symbols</a> can be displayed directly on GitHub maps. Symbols and colors used on the map:
+
+* Animoog players use the music notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color
+* Moog headquarters use the industrial symbol ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/industrial-24.svg) in the orange color
+* Orange is the color for official Moog markers, such as headquarters and Moog staff
+* Moog dealers and stores will use the commercial icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/commercial-24.svg) in the light blue color?
+
+Ideas?
 -----
 
-* Use different pushpins per type (ie a different pushpin for stores than for people, distinguish the types of Animoog players and fans by color, etc.) -- that's easy to do... GitHub supports marker -color and the Maki icons
+If you great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Animoog/issues)!
