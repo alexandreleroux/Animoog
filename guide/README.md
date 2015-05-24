@@ -1,4 +1,4 @@
-Animoog Tutorial
+Animoog Guide
 ============
 
 Upcoming... :-)
