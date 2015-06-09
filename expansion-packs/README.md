@@ -16,6 +16,8 @@ What you'll find here
 
 Version history of this content is found on the Expansion Packs page on Animoog.org
 
+CAREFUL -- THE VERSION HERE ON GITHUB IS NOT UP TO DATE -- IF YOU'D LIKE AN UP-TO-DATE HTML OR CSV VERSION OF THE TABLE, LET ME KNOW IN AN ISSUE
+
 Just like everything else on Animoog.org, this content is Creative Commons licensed
 
 
