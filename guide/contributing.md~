@@ -1,0 +1,29 @@
+Contributing to the Animoog Guide
+============
+
+# Start by reading contributing.html
+# For typos, corrections, comments and additions, the 
+# 
+
+
+== Colors ==
+
+Colors used in the Animoog guide:
+* sdf
+
+
+== Files ==
+
+Files contained in this repository.
+
+* index.html - the Animoog Guide landing page
+* README.md - the main readme
+* contributing.md - the readme you're currently reading!
+* *.html - .html files are the sections of the Animoog Guide itself
+* animoogguide.css - 
+
+Original reveal.js repositories, do not add or change anything in there, since they may be overwritten by a more recent release of reveal.js:
+* css
+* js
+* lib
+* plugin
