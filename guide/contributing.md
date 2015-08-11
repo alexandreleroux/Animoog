@@ -8,19 +8,24 @@ Contributing to the Animoog Guide
 
 == Colors ==
 
-Colors used in the Animoog guide:
-* sdf
+Colors used in the Animoog guide, specifically in animoog.css:
+* Light green: #00e800 -- the xy pad path line
+* Medium green: #07a007 -- the grid on the xy pad
+* Dark green: #193219 -- the background in the xy pad
+* White (almost white): #ebebec -- the top-menu
+* Dark grey: #2b2a2e -- the panels menu background
 
 
 == Files ==
 
 Files contained in this repository.
 
-* index.html - the Animoog Guide landing page
-* README.md - the main readme
-* contributing.md - the readme you're currently reading!
-* *.html - .html files are the sections of the Animoog Guide itself
-* animoogguide.css - the CSS used by this guide
+* index.html -- the Animoog Guide landing page
+* README.md -- the main readme
+* contributing.md -- the readme you're currently reading!
+* *.html -- .html files are the sections of the Animoog Guide itself
+* animoog.css -- the CSS used by this guide
+* /images/ -- images folder
 
 Original reveal.js repositories, do not add or change anything in there, since they may be overwritten by a more recent release of reveal.js:
 * css
