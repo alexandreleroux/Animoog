@@ -1,4 +1,4 @@
-Contributing to the Animoog Guide
+Contributing to the Satri Animoog Guide
 ============
 
 # Start by reading contributing.html
@@ -15,12 +15,19 @@ Colors used in the Animoog guide, specifically in animoog.css:
 * White (almost white): #ebebec -- the top-menu
 * Dark grey: #2b2a2e -- the panels menu background
 
+== Images ==
+
+About images used in the guide:
+* Stored in the /images/ folder
+* Use only images for which the license permits adding it to this guide (e.g. images you created yourself, Creative Commons images, etc)
+
 
 == Files ==
 
 Files contained in this repository.
 
-* index.html -- the Animoog Guide landing page
+* index.html -- the Satri Animoog Guide landing page
+* about.html -- everything about the Guide itself
 * README.md -- the main readme
 * contributing.md -- the readme you're currently reading!
 * *.html -- .html files are the sections of the Animoog Guide itself
@@ -32,3 +39,9 @@ Original reveal.js repositories, do not add or change anything in there, since t
 * js
 * lib
 * plugin
+
+== Fonts ==
+
+About the guide's fonts:
+* Specified in animoog.css
+* Reveal.js supports [Google Fonts](https://www.google.com/fonts)
