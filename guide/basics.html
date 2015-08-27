@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Satri Animoog Guide - Welcome!</title>
+		<meta name="description" content="A crowdsourced and open guide for Moog Music's award-winning Animoog musical instrument and app">
+		<meta name="author" content="Alexandre Leroux">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="animoog.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section data-background="images/animoog_xypad-background.jpg">
+					<h2>Satri Animoog Guide</h2>
+					<img data-src="images/animoog_logo.jpeg" alt="Animoog logo">
+                                        <h3>Welcome fellow Animoog enthusiasts!</h3>
+				</section>
+                                <section data-background="images/animoog_xypad-background.jpg">
+                                        <h3>Welcome fellow Animoog enthusiasts!</h3>
+                                        <p>This guide exists to help you have fun playing music with Animoog right from the first time you launch the instrument</p>
+                                        <p>It will lead you to the basics -- enough to have fun for a while -- and also dives deeper into Animoog's sophisticated capabilities</p>
+                                </section>
+                                <section>
+                                        <h1>Index</h1>
+                                        <p>topics covered here</p>
+                                </section>
+                                <section>
+                                        <h1>Beyond the Guide</h1>
+                                        <p>Want more Animoog music than this guide? Subscribe to <a href="http://animoog.org" target="_blank">animoog.org</a> and get my <a href="http://animoog.org/satri/unanimoog" target="_blank"> free album of improvized animoog solos</a></p>
+                                        <p>You end up playing Animoog from time to time? <a href="http://animoog.org/playing/map/" target="_blank">Add youself to the map of Animoog players</a>!</p>
+                                </section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
