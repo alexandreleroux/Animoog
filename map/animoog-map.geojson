@@ -6,7 +6,7 @@
       "properties": {
         "Type": "Moog",
         "Name": "Moog Headquarters",
-        "URL": "http://www.moogmusic.com/",
+        "URL": "www.moogmusic.com",
         "Description": "Moog Music Inc headquarters",
         "marker-symbol": "industrial",
         "marker-color": "#ffa500"
@@ -75,14 +75,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#168411",
+        "marker-color": "#32cd32",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "music",
         "Type": "Musician",
         "Name": "Victor Burenko",
         "URL": "vk.com/iosmusician",
-        "marker-symbol": "music",
-        "marker-color": "#32cd32",
         "Description": "Drummer/iOSMusician"
       },
       "geometry": {
@@ -108,6 +106,24 @@
         "coordinates": [
           4.9607133865356445,
           50.568928517357314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Musician",
+        "Name": "Heide Hoffmann",
+        "URL": "",
+        "Description": "Animoog player and fan art contributor",
+        "marker-symbol": "music",
+        "marker-color": "#32cd32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.98748779296872,
+          -40.90456099095593
         ]
       }
     }
