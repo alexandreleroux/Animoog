@@ -54,4 +54,4 @@ Symbols and colors
 Ideas?
 -----
 
-If you great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Animoog/issues)!
+You have great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Animoog/issues)!
