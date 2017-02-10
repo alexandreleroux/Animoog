@@ -130,19 +130,18 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
         "Type": "Musician",
         "Name": "Aeger Smoothie",
         "URL": "https://about.me/aegersmoothie",
         "Description": "Musician using Animoog and other iOS software",
-        "marker-symbol": "Music",
+        "marker-symbol": "music",
         "marker-color": "#32cd32"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          404.00745391845703,
-          56.323200430097344
+          44.00779724121094,
+          56.299586625622894
         ]
       }
     }
