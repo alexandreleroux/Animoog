@@ -130,6 +130,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Type": "Musician",
         "Name": "Aeger Smoothie",
         "URL": "https://about.me/aegersmoothie",
@@ -140,8 +141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          403.99818420410156,
-          56.32415229344753
+          404.00745391845703,
+          56.323200430097344
         ]
       }
     }
