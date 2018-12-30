@@ -144,6 +144,24 @@
           56.299586625622894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Composer",
+        "Name": "Michael Northam",
+        "URL": "orogenetics.org",
+        "Description": "Composer using Animoog with sound-art works using portable speakers in nature. ",
+        "marker-symbol": "music",
+        "marker-color": "#429ef4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.343994140625,
+          32.22674287041067
+        ]
+      }
     }
   ]
 }
